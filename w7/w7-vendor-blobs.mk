@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/lge/w7/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/lge/w7/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/lge/w7/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/w7/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
     vendor/lge/w7/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
     vendor/lge/w7/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
